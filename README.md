@@ -8,7 +8,6 @@ yarn init -y
 ### 下载parcel
 ```
 yarn add parcel-bundler -D
-
 ```
 
 ### 生产模式打包
