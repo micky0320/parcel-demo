@@ -1,4 +1,4 @@
-
+## parcel-demo
 
 ### 初始化package.json
 ```
@@ -20,3 +20,5 @@ parcel build src/view/index.html
 parcel build src/view/index.html --out-dir build
 parcel build src/view/index.html -d build
 ```
+
+
